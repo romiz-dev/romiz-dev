@@ -40,5 +40,5 @@ payment handling, debt management, and structured application design.
 
 ## Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: YOUR_PUBLIC_PROFESSIONAL_EMAIL
+- GitHub: https://github.com/romiz-dev
+- Email: romizm8338@gmail.com
